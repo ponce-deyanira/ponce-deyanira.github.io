@@ -1,0 +1,19 @@
+
+header {
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+    color: ffff;
+    background-color: rgb(224, 187, 170);   
+}
+.centered {
+    text-align: center;
+}
+.intro {
+max-width: 500px;
+text-align: left;   
+}
+h2{
+    color: darkred;
+    background-color: darksalmon;
+}
