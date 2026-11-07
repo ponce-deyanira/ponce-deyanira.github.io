@@ -1,0 +1,35 @@
+
+.border-radius {
+    border-radius: 80%;
+    margin-left: 800px;
+    margin-top: 0px;
+    margin-bottom: -100px;
+    width: 450px;
+
+}
+header {
+    background-color: rgba(254, 250, 236); 
+}
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+h2, h3, h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: larger
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-image: src;
+}
+.border {
+    margin-top: -18px;
+}
+.content {
+    margin-top: -2050px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    font-size: larger;
+}
