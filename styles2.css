@@ -1,35 +1,138 @@
 
 .border-radius {
     border-radius: 80%;
-    margin-left: 800px;
-    margin-top: 0px;
-    margin-bottom: -100px;
-    width: 450px;
-
-}
-header {
-    background-color: rgba(254, 250, 236); 
-}
-h1 {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 1255px;
+    margin-top: -80px;
+    margin-bottom: px;
+    width: 400px;
     
 }
-h2, h3, h4 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
-    font-size: larger
+header {
+    background-color: rgba(251, 246, 232, 0.956); 
+    width:;
+    margin-left: -150px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: rgba(167,104, 104, 0.871);
+    border-bottom-width: 2px;
+}
+.slogan {
+    display: flex;
+    align-items: center;
+    
+}
+
+h1{
+  font-family: "Permanent Marker", cursive;
+  font-style: normal;
+  font-size: 70px;
+  margin-top: -315px;
+  margin-left: 300px;
+
 }
 p {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: "Allison", cursive;
+  font-weight: 400;
+  font-size: 50px;
+  margin-bottom: 140px;
+  margin-top:-25px;
+  margin-left: 355px;
 }
-body {
-    background-image: src;
+p2 {
+  font-family: "Carattere", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 33px;
+  background-color: rgba(248, 241, 233, 0.6);
+ 
 }
-.border {
-    margin-top: -18px;
+ul {
+  font-family: "Englebert", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+}
+h2, h3, h4 {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 32px; 
+
+}
+.wallpaper {
+    margin-top: .57px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: rgba(167, 104, 104, 0.871);
+    border-top-width: 0.9px;
+    background: url(fondopag.jpeg);
+    width: 1500;
+    background-size: cover;
+    background-clip: ;
+    
 }
 .content {
-    margin-top: -2050px;
-    margin-bottom: 30px;
-    margin-left: 20px;
-    font-size: larger;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;  
 }
+.border-icon {
+    border-radius: 20px;
+    
+}
+.border-icon2 {
+    border-radius: 20px;
+}
+
+.botones-header {
+    display: flex;
+    margin: 50px;
+    margin-top: 10px;
+    margin-left: -310px;
+    justify-content: space-evenly;
+    font-family: "Oregano", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    
+}
+.media-aling {
+    display: flex;
+    align-items: baseline;
+    font-family: "Just Another Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    
+}
+.conect {
+    font-family: "Sirin Stencil", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    background-color: rgba(247, 216, 214, 0.87);
+    border-top-width: 2px;
+    border-top: rgb(105, 64, 64);
+    border-top-style: solid;
+    display: flex;
+    justify-content: center;  
+}
+.slider-wrapper {
+    position: relative;
+    max-width: 600px;
+    margin: 0;
+}
+.slider {
+    display: flex;
+    aspect-ratio: 3 / .309;
+    overflow-x: visible;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    box-shadow: 0 1.5rem 3rem -0.75rem hsla(hue, saturation, lightness, alpha);
+    border-radius: 0.5rem;
+    -ms-overflow-style: none;
+    stroke-width: none;
+}
+
+
+
